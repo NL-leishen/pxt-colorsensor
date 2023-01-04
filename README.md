@@ -1,4 +1,4 @@
-# YFROBOT颜色传感器
+# 颜色传感器
  颜色传感器模块 microbit makecode 扩展
 
 
